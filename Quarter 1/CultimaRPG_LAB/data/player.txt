@@ -1,0 +1,62 @@
+1901
+Tikirep   **name
+-1 -1 -1     **mapMark
+0 0 0 0 0 0 0 0 0     **potions
+0 0 0 0 0     **flowerBoxCount
+0 0 0 0      **specificExperience
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0      **stats
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0      **infoIndexes
+0 0 0 0     **spellHotKeys
+-1 -1 -1 -1 -1 -1 -1 -1 -1     **potionHotKeys
+0 0 0 0 0 0 0 0     **weaponHotKeys
+[]     **effects
+[images/characters/player/dagger1b.Gif, images/characters/player/dagger2b.Gif, images/characters/player/dagger1b.Gif, images/characters/player/dagger2b.Gif]   **images
+[lockpick]     **item:itemFrequency
+[]     **spells
+[]   **teleporter-memory
+[Clothes:1, Elk-pelt:1]  **armor:armorFrequency
+[Fists:1]   **weapon:weaponFrequency for unarmed
+[]   **weapon:weaponFrequency for torch
+[]   **weapon:weaponFrequency for magic staff
+[]   **weapon:weaponFrequency for longstaff
+[]   **weapon:weaponFrequency for spears
+[]   **weapon:weaponFrequency for bows
+[]   **weapon:weaponFrequency for crossbows
+[]   **weapon:weaponFrequency for axes
+[]   **weapon:weaponFrequency for dual-axes
+[]   **weapon:weaponFrequency for hammers
+[Dagger:3]   **weapon:weaponFrequency for daggers
+[]   **weapon:weaponFrequency for swords
+[]   **weapon:weaponFrequency for sword and shield
+[]   **weapon:weaponFrequency for dual blades
+[Throwing-stone:1]   **weapon:weaponFrequency for thrown objects
+[]   **weapon:weaponFrequency for lute
+10     **imageIndex
+10     **startStoryIndex
+0   **mapIndex
+444   **row
+179   **column
+500   **world-row
+500   **world-column
+world     **locationType
+9     **might
+3     **mind
+41     **agility
+53     **body
+30     **manna
+0    **awareness
+0   **reputation
+1   **bounty
+9   **gold
+201   **experience
+500     **experienceToLevelUp
+0     **weaponSelect
+1     **armorSelect
+5   **rations
+0     **numArrows
+0     **numStones
+none     **dogBasicInfo
+none     **horseBasicInfo
+none     **npcBasicInfo
+1     **days
+9.0     ***time

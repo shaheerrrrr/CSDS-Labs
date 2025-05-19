@@ -1,0 +1,3 @@
+1469
+**name,charIndex,mapIndex,row,col,homeRow,homeCol,missionIndex,might,mind,agility,body,reputation,hasMet,restoreDay,endChaseDay,origMoveType,locationType,numInfo,weapon,armor,items,gold,effect,maritalStatus
+Stocos,48,2,58,37,58,37,none,24,5,35,120,-50,false,-1,-1,1,city,0,Fanged-bite,Hide,[],false,0,none,N

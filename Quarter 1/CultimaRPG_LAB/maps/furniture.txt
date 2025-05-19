@@ -1,0 +1,17 @@
+287
+**name,charIndex,mapIndex,row,col,homeRow,homeCol,missionIndex,might,mind,agility,body,reputation,hasMet,restoreDay,endChaseDay,origMoveType,locationType,numInfo,weapon,armor,items,gold,effect,maritalStatus
+Barrel,82,2,36,51,36,51,none,5,0,0,25,0,false,-1,-1,0,city,-99,none,none,[],false,0,none,N
+Barrel,82,2,37,56,37,56,none,5,0,0,25,0,false,-1,-1,0,city,-99,none,none,[],false,0,none,N
+Barrel,82,2,38,56,38,56,none,5,0,0,25,0,false,-1,-1,0,city,-99,none,none,[],false,0,none,N
+Barrel,82,2,41,49,41,49,none,5,0,0,25,0,false,-1,-1,0,city,-99,none,none,[],false,0,none,N
+Barrel,82,2,6,43,6,43,none,5,0,0,25,0,false,-1,-1,0,city,-99,Dualaxe,none,[],false,0,none,N
+Barrel,82,2,6,46,6,46,none,5,0,0,25,0,false,-1,-1,0,city,-99,none,none,[],false,0,none,N
+Barrel,82,2,10,40,10,40,none,5,0,0,25,0,false,-1,-1,0,city,-99,Spiked-hammer,none,[],false,0,none,N
+Barrel,82,2,11,15,11,15,none,5,0,0,25,0,false,-1,-1,0,city,-99,none,none,[],false,0,none,N
+Barrel,82,2,12,14,12,14,none,5,0,0,25,0,false,-1,-1,0,city,-99,none,none,[Strength none 25 0 5 0 0 200],false,0,none,N
+Barrel,82,2,18,14,18,14,none,5,0,0,25,0,false,-1,-1,0,city,-99,none,none,[],false,0,none,N
+Barrel,82,2,37,14,37,14,none,5,0,0,25,0,false,-1,-1,0,city,-99,none,none,[],false,0,none,N
+Barrel,82,2,41,13,41,13,none,5,0,0,25,0,false,-1,-1,0,city,-99,none,none,[],false,0,none,N
+Barrel,82,2,43,19,43,19,none,5,0,0,25,0,false,-1,-1,0,city,-99,none,none,[],false,0,none,N
+Barrel,82,2,44,13,44,13,none,5,0,0,25,0,false,-1,-1,0,city,-99,none,none,[],false,0,none,N
+Barrel,82,2,5,10,5,10,none,5,0,0,25,0,false,-1,-1,0,city,-99,none,none,[Strength none 25 0 5 0 0 200],false,0,none,N

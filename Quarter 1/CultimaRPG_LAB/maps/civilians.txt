@@ -1,0 +1,27 @@
+1223
+**name,charIndex,mapIndex,row,col,homeRow,homeCol,missionIndex,might,mind,agility,body,reputation,hasMet,restoreDay,endChaseDay,origMoveType,locationType,numInfo,weapon,armor,items,gold,effect,maritalStatus
+Madame Barkeep Studar,8,2,40,55,40,55,none,15,21,11,75,413,false,-1,-1,0,city,10,Fists,Clothes,[],false,31,none,W
+Pesar,12,2,7,41,7,41,none,21,19,24,105,33,false,-1,-1,0,city,0,Sword,Chainmail,[],false,1,none,W
+Ironsmith Fotarek,5,2,11,45,11,45,none,13,18,4,65,75,false,-1,-1,0,city,1,Fists,Clothes,[],false,1,none,N
+Butcher Becebup,5,2,12,18,12,18,none,10,12,10,50,116,false,-1,-1,0,city,1,Fists,Clothes,[],false,7,none,N
+Hop,13,2,17,17,17,17,none,49,12,18,245,-95,false,-1,-1,0,city,0,Fists,Chainmail,[],false,5,none,N
+Mage Ramacot,7,2,43,15,43,15,none,20,20,14,100,93,false,-1,-1,0,city,1,Staff,Clothes,[],false,3,none,N
+Pesor,5,2,51,49,51,49,none,11,19,8,55,97,false,-1,-1,0,city,10,Fists,Clothes,[],false,8,none,S
+Phantom,78,2,51,36,51,36,none,3,50,2,15,-1390,false,-1,-1,0,city,0,Bite,none,[],false,0,none,N
+Phantom,78,2,53,37,53,37,none,7,55,1,35,-1957,false,-1,-1,0,city,0,Bite,none,[],false,0,none,N
+Chakilic,8,2,38,49,23,5,none,15,9,4,75,-24,false,-1,-1,0,city,1,Fists,Clothes,[],false,2,none,S
+Thesab,2,2,17,51,17,51,none,49,11,25,245,112,false,-1,-1,0,city,0,Spear,Chainmail,[],false,5,none,N
+Nolonan,6,2,37,29,51,24,none,50,25,35,250,-23,false,-1,-1,1,city,2,Sword,Leather,[],false,1,none,S
+Chuk,6,2,14,30,22,40,none,22,33,20,110,-3,false,-1,-1,1,city,2,Sword,Leather,[],false,6,none,S
+Hunik,3,2,27,27,19,40,none,6,11,40,30,106,false,-1,-1,1,city,10,Fists,Clothes,[lockpick:10],false,5,none,N
+Kecum,4,2,34,27,50,5,none,6,11,13,30,98,false,-1,-1,0,city,1,Lute,Clothes,[],false,6,none,M
+Dek,13,2,22,20,22,20,none,23,21,13,115,33,false,-1,-1,0,city,0,Fists,Chainmail,[],false,5,none,M
+Caros,5,2,32,47,20,20,none,13,12,15,65,15,false,-1,-1,1,city,1,Fists,Clothes,[ration:4],false,4,none,M
+Jorelad,6,2,31,52,6,8,none,42,38,24,210,13,false,-1,-1,1,city,2,Sword,Scalemail,[],false,2,none,W
+Lobak,9,2,37,23,42,35,none,11,14,44,55,609,false,-1,-1,5,city,1,Staff,Clothes,[],false,6,none,N
+Gecep,5,2,20,28,13,34,none,18,20,11,90,53,false,-1,-1,1,city,1,Fists,Clothes,[],false,3,none,W
+Cudiric,5,2,30,32,23,56,none,9,8,18,45,97,false,-1,-1,1,city,1,Fists,Clothes,[],false,4,none,W
+Stanosuc,5,2,27,12,21,55,none,15,20,18,75,558,false,-1,-1,1,city,1,Fists,Clothes,[],false,8,none,N
+Romut,2,2,41,7,41,7,none,45,20,14,225,91,false,-1,-1,0,city,0,Spear,Chainmail,[ration:3],false,2,none,W
+Raceped,4,2,54,28,22,47,none,12,12,23,60,56,false,-1,-1,0,city,1,Lute,Clothes,[],false,5,none,W
+Rodam,1,2,33,27,24,47,none,3,8,9,15,2,false,-1,-1,1,city,0,Fists,Clothes,[],false,1,none,N
